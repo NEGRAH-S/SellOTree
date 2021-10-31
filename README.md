@@ -21,7 +21,7 @@ Due to massive commercialization, we are somewhere neglecting our mother Earth. 
 ![Contact Us](Readme-img/5.png)
 
 ### Newsletter
-![Newsletter](Readme-img/7.png)
+![Newsletter](Readme-img/6.png)
 
 ### FAQs
 ![FAQs](Readme-img/7.png)
