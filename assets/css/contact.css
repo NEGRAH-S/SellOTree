@@ -168,6 +168,12 @@ h3.global-title {
   border-radius: 10px;
 }
 
+.form-align {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .form-mid form input,
 .form-mid form textarea {
   background: #f8f9fa;
